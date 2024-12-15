@@ -1,0 +1,106 @@
+{
+  "Trains": [
+    {
+      "trainLogo": "https://firebasestorage.googleapis.com/v0/b/traintickets1612.appspot.com/o/images.jpeg?alt=media&token=670cacc7-000b-4dec-b498-7fbd970589d0",
+      "trainName": "Минск - Гомель",
+      "arriveTime": "4h 15m",
+      "classSeat": "Купе",
+      "date": "24 дек, 2024",
+      "from": "Минск",
+      "fromShort": "MSQ",
+      "numberSeat": 150,
+      "price": 15.5,
+      "reservedSeats": "2A, 3B, 5C, 6D, 7A, 8B",
+      "time": "08:45",
+      "to": "Гомель",
+      "toShort": "GOM"
+    },
+    {
+      "trainLogo": "https://firebasestorage.googleapis.com/v0/b/traintickets1612.appspot.com/o/images.jpeg?alt=media&token=670cacc7-000b-4dec-b498-7fbd970589d0",
+      "trainName": "Минск - Брест",
+      "arriveTime": "2h 30m",
+      "classSeat": "Сидячие места",
+      "date": "24 дек, 2024",
+      "from": "Минск",
+      "fromShort": "MSQ",
+      "numberSeat": 200,
+      "price": 12.0,
+      "reservedSeats": "1A, 3C, 4B, 5D, 6A",
+      "time": "10:00",
+      "to": "Брест",
+      "toShort": "BRE"
+    },
+    {
+      "trainLogo": "https://firebasestorage.googleapis.com/v0/b/traintickets1612.appspot.com/o/images.jpeg?alt=media&token=670cacc7-000b-4dec-b498-7fbd970589d0",
+      "trainName": "Минск - Витебск",
+      "arriveTime": "3h 20m",
+      "classSeat": "Плацкарт",
+      "date": "24 дек, 2024",
+      "from": "Минск",
+      "fromShort": "MSQ",
+      "numberSeat": 180,
+      "price": 13.2,
+      "reservedSeats": "1A, 2C, 4D, 5A, 7B",
+      "time": "14:15",
+      "to": "Витебск",
+      "toShort": "VIT"
+    },
+    {
+      "trainLogo": "https://firebasestorage.googleapis.com/v0/b/traintickets1612.appspot.com/o/images.jpeg?alt=media&token=670cacc7-000b-4dec-b498-7fbd970589d0",
+      "trainName": "Минск - Могилев",
+      "arriveTime": "4h 05m",
+      "classSeat": "Купе",
+      "date": "24 дек, 2024",
+      "from": "Минск",
+      "fromShort": "MSQ",
+      "numberSeat": 160,
+      "price": 16.8,
+      "reservedSeats": "3A, 4B, 6C, 7D",
+      "time": "17:30",
+      "to": "Могилев",
+      "toShort": "MOZ"
+    }
+  ],
+  "Locations": [
+    {
+      "Id": 0,
+      "Name": "Минск"
+    },
+    {
+      "Id": 1,
+      "Name": "Гомель"
+    },
+    {
+      "Id": 2,
+      "Name": "Брест"
+    },
+    {
+      "Id": 3,
+      "Name": "Витебск"
+    },
+    {
+      "Id": 4,
+      "Name": "Могилев"
+    },
+    {
+      "Id": 5,
+      "Name": "Гродно"
+    },
+    {
+      "Id": 6,
+      "Name": "Бобруйск"
+    },
+    {
+      "Id": 7,
+      "Name": "Пинск"
+    },
+    {
+      "Id": 8,
+      "Name": "Мозырь"
+    },
+    {
+      "Id": 9,
+      "Name": "Орша"
+    }
+  ]
+}
